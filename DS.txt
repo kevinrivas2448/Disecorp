@@ -1,0 +1,8 @@
+"fuelcheck.net":
+esta sera la pagina de la que vamos a sacar la mayor 
+parte de ideas y de info para poder ayudarnos.
+"elgatosa.com.gt": 
+lo mismo que arriba, solo que sin 
+sacar info de ahi.
+"petrotech.com.mx":
+la vista total de la pagina que sea algo asi.
